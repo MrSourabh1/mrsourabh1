@@ -22,10 +22,15 @@ I'm learning Data Science.
 4. Deep Learning [ ]
 5. Artificial Intelligence [ ]
 
+## ML libraries
+1. NumPy
+2. Pandas
+3. Matplotlib
+4. Seaborn
+
 
 ## Summary of my journey
 👩‍💻 Started as a Civil Engineer
-
 👯‍♀️ 2 years of construction industry experience.
 
 🧠 Mtech scholar at IIT Madras. Learning ML in Civil engineering
